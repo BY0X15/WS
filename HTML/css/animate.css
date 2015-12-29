@@ -1,0 +1,11 @@
+@-webkit-keyframes example {
+    form {
+    	background: #FFF;
+    	color: #858C98;
+    }
+    to {
+    	background: #5FA5E4;
+		background-image: linear-gradient(-180deg, #6BB1F1 0%, #5FA5E4 100%);
+		color: #FFF;
+    }
+}
