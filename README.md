@@ -1,1 +1,1 @@
-# WorldSkills
+# WS
